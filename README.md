@@ -1,2 +1,1 @@
-# wookie
-template for practice 
+First e-commerce project
